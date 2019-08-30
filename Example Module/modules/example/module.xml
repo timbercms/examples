@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <title>Example Module</title>
+    <description>Example Module</description>
+    <author>Chris Smith</author>
+    <author_url>https://github.com/Smith0r</author_url>
+    <version>1.0.0</version>
+    <fields type="textarea" name="params[content]" label="Module Content" />
+</settings>
